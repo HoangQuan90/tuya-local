@@ -93,6 +93,7 @@
 - Sichler ZX-7655/ZX-7656 hybrid infrared convection heater
 - SolAire Vitra S2 panel heater
 - Sonnenkonig Eco 700 IR panel heater (probably also other Eco/Elegance series heaters)
+- Starlight EF-STAR30 electric fireplace
 - Sunred Smart Triangle Dark patio wall heater
 - Taurus Agadir Connect oil column heaters
 - Tecxerllon 1500W panel heater
@@ -313,8 +314,7 @@
 - Ettroit LN4102 thermostat
 - Eurom WiFi thermostat
 - Euroster 4040 Smart thermostat
-- EZAIoT R9Lite thermostat
-- EZAIoT thermostat smartplug
+- EZAIoT thermostat smartplugs (including Lite and R9Lite models)
 - Fercofloor FT2C10V fan coil thermostat
 - Garza Aspen and (unknown model) thermostats
 - HaoLeSi Mini thermostat
@@ -449,8 +449,8 @@
 - Lexy F501 fan
 - Ligency E26 socket ceiling fan with RGBCW light
 - Living Comfort LC310S twin window fan
+- Lucci Air Radar Connect and Aria DC ceiling fans
 - Lucci Connect Wi-Fi fan remote
-- Lucci Air Radar Connect ceiling fan
 - Lumary A1, B2, C2 ceiling fans with lights
 - Magnovent Cefiro ceiling fan with lights
 - Mantra ceiling fan with light
@@ -545,6 +545,7 @@
 - TrueLife P3 and P7 air purifiers
 - Vephos True air purifier
 - Vestfrost VP-A1Z40HW air purifier
+- Vibrix PureFlow30 air purifier
 - Vork VK6067AW air purifier
 - Webber AP9750 and APG7800 air purifiers
 
@@ -593,8 +594,7 @@
 - Morris MDB-12160HIW dehumidifier
 - NWT WDH-02EM and WDH-10EN dehumidifiers
 - Point PODH20 dehumidifier
-- Pro Breeze 30L dehumidifier
-- Pro Breeze D-23 dehumidifier
+- Pro Breeze 30L, D-23, D-18W dehumidifiers
 - Qlima D720, D812, D820A dehumidifiers
 - Rohnson R-9530 dehumidifier
 - Sefaul Q8 dehumidifier
@@ -675,6 +675,8 @@
 - Casdon KG1 inline water dispenser
 - Casdon TD Pro 2, TD Pro 3 and T2E ovens
 - Cecofry 5500 Connected air fryer
+- Dunavox DVS-25.65 wine cooler
+- EA dual zone car fridge
 - Etna VW644MC dishwasher, AB791 range hood
 - Fiesta DK-1G smart kettle
 - FRE1L4 water chiller
@@ -692,6 +694,7 @@
 - Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
+- Mowe MW278I induction hob
 - Recteq RT-700, RT-800 Deck Boss, RT-1250, RT-B380X grills
 - Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
@@ -734,6 +737,7 @@
 - Ketotek KTEM06pro energy meter
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
+- MTY2 energy monitoring circuit breaker
 - Ourtop ATMS100133 energy meter
 - Owon PC341 3 in 16 out clamp energy meter
 - Parkside PG/PMW-300 solar inverter
@@ -781,6 +785,7 @@
 - AmperePoint Q series EV chargers
 - Arlec/Deta EV200D-HA EV charger
 - Conow CBE2000 Pro solar battery
+- Dabbsson DBS2300 portable power station
 - dé Wall EV charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
 - Dowell iOneAIO EV charger
@@ -960,6 +965,7 @@ of device.
 - Brilliant Smart PIR outdoor sensor light switch
 - Brizlabs string lights
 - Calex S45 Clear E27 lightbulb
+- Cloudy Bay LFMC815SMWH dual-zone RGB+CCT ceiling light
 - Deltaco LED Strip (SH-LW5M)
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
 - Deta 6910HA series2 dimmer switch
@@ -1270,6 +1276,7 @@ port and password.
 - iPettie W5 and FW54 pet feeders
 - Kalado KPF01 pet feeder
 - Kanchou pet fountain
+- Kogan F28W pet feeder
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
 - LSC Smart Connect pet feeder
@@ -1356,7 +1363,7 @@ port and password.
 - Stahlmann Smart water leak control system
 - Sunlary indoor plant watering system
 - Wasserstein AquaPal water monitor
-- WD-01GDE irrigation controller 
+- WD-01GDE irrigation controller
 - Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
 ### Miscellaneous
@@ -1401,6 +1408,7 @@ port and password.
 - Haozee PS10 mmWave presence sensing light switch
 - Holman Helios weather station
 - Houschen anti-fog bathroom mirror with lights
+- HQL DS-123 radar switch
 - HRT AS90 temperature and humidity alarm
 - HX-002-Z human presence sensor
 - iHseno ZTU human presence sensor
@@ -1519,7 +1527,7 @@ port and password.
 - Nice Digi door lock
 - Orion DL021HA lock
 - O'TU R1O1 fingerprint door lock
-- Parkside PBB-A1 water timer 
+- Parkside PBB-A1 water timer
 - Positivo Smart keypad and voice locks
 - Primebras Athenas lock
 - PT216/PT19DB-2 temperature and humidity sensor
